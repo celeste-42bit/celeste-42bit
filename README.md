@@ -10,3 +10,15 @@ Currently I am applying for an admission to the police academy, so I can study t
 ### My current projects
 Most of my repositories are private because they are dedicated to personal projects and honestly because they look kinda messy and chaotic.
 Feel free to check out the public ones on my profile, which are mostly there for learning and which I show to my friends and study mates for review and suggestions.
+
+### What I have learned so far...
+So far I've been studying the basic concepts of computer science, starting at mathematical priciples such as boolean algebra, geometry, runtime optimisation and more, which were complemented by practical programming methods and paradigms in both linear and object oriented languages (mostly C, C++, Java and Python). On top of that, I learned about the inner workings of processors, including circuit logic, pipelining and several automata, and how certain processors are programmed. For that I used the MIPS assembly language.
+
+In my free time I tought myself the fundamentals of GNU/Linux based operating systems. While learning about their inner workings and function principles I got in contact with the BASH language and started writing scripts for convenience or to implement certain functions I needed on my machines. Having tackled BASH I also started working with Microsofts PowerShell, to also get a feel for the Windows side of things.
+
+As of 2021 in the pandemic I started getting into cybersecurity, especially on the offensive security side. I've used specialised hacking tools such as nmap, the Metasploit Framework, Nessus by Tenable, Wireshark and different CVE-libraries, to pentest training targets and solve many capture-the-flag challenges such as the ones from HackTheBox.
+Out of curiosity I disassembled malware that was found and published by companies or cybersecurity researchers on social media and looked at how the different programs were working and how cyber-criminals tried to circumvent security measures in order to do damage on their target systems.
+
+In the past year I attended several cybersecurity conferences by my University, regional colleges and companies, to learn more about how the threat landscape is developing, how cybersecurity experts keep their systems safe and how to become better at pentesting and securing network infrastructures.
+
+### ...and where I'm headed
