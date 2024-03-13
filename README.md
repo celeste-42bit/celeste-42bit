@@ -22,3 +22,9 @@ Out of curiosity I disassembled malware that was found and published by companie
 In the past year I attended several cybersecurity conferences by my University, regional colleges and companies, to learn more about how the threat landscape is developing, how cybersecurity experts keep their systems safe and how to become better at pentesting and securing network infrastructures.
 
 ### ...and where I'm headed
+
+Currently I am working through a textbook about OSINT, Open Source INTelligence, to better understand how to collect and process information from public, non-confidential sources. Since OSINT is one of the most heavily used sources of corporate, law-enforcement and military intelligence, I decided to add the required methods and skills for conducting OSINT reconnaicance operations to my repertoire.
+
+Furthermore, I am training to write better and cleaner code in the programming languages I already know, to get proficient in the ways and methods professionals use in their day to day work.
+
+In the long run I am looking forward to combining the tactical and forensic skills I want to learn at the police academy with my IT and computer science knowledge, to be able to effectively fight cybercrime and immediate threats to our public order in Germany.
