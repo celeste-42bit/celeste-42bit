@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ### About me
-My name is Caelestia, many call me Caeleste or simply Cell.
+My name is Celeste, nickname Cell.
 I am a computer science student from Germany and I am mostly interested in hardware & embedded programming, cybersecurity and digital forensics.
 Most of the time I'm writing little convenience scripts for Linux systems (which can sometimes get very specific and niche) and software for some of my hobby projects, including model rocketry, 3D printing and home automation.
 
