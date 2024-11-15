@@ -27,4 +27,4 @@ Currently I am working through a textbook about OSINT, Open Source INTelligence,
 
 Furthermore, I am training to write better and cleaner code in the programming languages I already know, to get proficient in the ways and methods professionals use in their day to day work.
 
-In the long run I am looking forward to combining the tactical and forensic skills I want to learn at the police academy with my IT and computer science knowledge, to be able to effectively fight cybercrime and immediate threats to our public order in Germany.
+In the long run I am looking forward to combining the tactical and forensic skills I want to learn at the police academy with my IT and computer science knowledge, to be able to effectively fight cybercrime and immediate threats to our democratic order in Germany.
